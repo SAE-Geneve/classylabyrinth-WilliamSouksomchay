@@ -50,7 +50,7 @@ void show_state()
 					<< ")\n";
 				std::cout << "\tname       : " << enemy.name << "\n";
 				std::cout << "\thit points : " << enemy.health_points << "\n";
-				std::cout << "\n";
+			
 			}
 		}
 	}
